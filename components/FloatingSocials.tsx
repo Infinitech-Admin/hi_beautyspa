@@ -22,11 +22,11 @@ export default function FloatingSocials() {
       link: 'https://www.tiktok.com/@hibeautyspa888',
       bg: 'bg-black', // TikTok black
     },
-    {
-      icon: <FaViber />,
-      link: 'viber://chat?number=%2B639684504504',
-      bg: 'bg-[#7360F2]', // Viber purple
-    },
+  {
+  icon: <FaViber />,
+  link: 'viber://chat?number=%2B63912877745',
+  bg: 'bg-[#7360F2]', // Viber purple
+},
   ]
 
   return (
