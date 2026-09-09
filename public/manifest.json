@@ -1,0 +1,30 @@
+{
+  "name": "Hi Beauty SPA",
+  "short_name": "Hi Beauty SPA",
+  "description": "Experience ultimate relaxation at Hi Beauty SPA. Discover premium spa treatments, wellness services, and luxury therapies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F1ED",
+  "theme_color": "#3D2817",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512x512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
